@@ -1,0 +1,30 @@
+@media only screen and (max-width: 768px) {
+    .body {
+        font-size: 14px;
+    }
+    .nameTkn {
+        color: aliceblue;
+        width: 200px;
+        margin-left: 5px;
+    }
+    .time-section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: aliceblue;
+        font-family: sans-serif;
+        padding: 0 5px;
+        border-right: 1px solid rgb(24, 73, 129);
+        user-select: none;
+    }
+    .img {
+        padding-left: 5px;
+        height: 32px;
+        width: 32px;
+    }
+}
+.countdownHNS {
+    text-align: center;
+    padding-right: 50px;
+}

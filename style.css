@@ -1,0 +1,130 @@
+.body {
+	background: url("..//Images/back.jpg");
+}
+.wrapper {
+	
+}
+.header {
+	background-color: rgba(0, 0, 0, 0.747);
+	border-radius: 10px;
+	font-size: 30px;
+	padding-left: px;
+	max-width: 1200px;
+	height: 100px;
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	color: aliceblue;
+}
+.header__cnt {
+	text-align: center;
+	padding-top: 10px;
+}
+.container {
+	background-color: rgba(0, 0, 0, 0.747);
+	border-radius: 10px;
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto; 
+
+}
+.countdownHNS {
+    display: flex;
+    align-items: center;
+}
+.countdownLTC {
+	display: flex;
+	align-items: center;
+}
+.countdownMONA {
+	display: flex;
+	align-items: center;
+}
+.countdownEMC2 {
+	display: flex;
+	align-items: center;
+}
+.countdownBEAM {
+	display: flex;
+	align-items: center;
+}	
+.countdownBCH {
+	display: flex;
+	align-items: center;
+}
+.countdownBSV {
+	display: flex;
+	align-items: center;
+}
+.countdownZEN {
+	display: flex;
+	align-items: center;
+}
+.countdownBTG {
+	display: flex;
+	align-items: center;
+}
+.countdownBTC {
+	display: flex;
+	align-items: center;
+}
+.countdownBCD {
+	display: flex;
+	align-items: center;
+}
+.countdownXCH {
+	display: flex;
+	align-items: center;
+}
+.countdownRVN {
+	display: flex;
+	align-items: center;
+}
+
+.nameTkn {
+	color: aliceblue;
+	width: 200px;
+	margin-left: 30px;
+}
+
+.img {
+	padding-left: 100px;
+	height: 32px;
+	width: 32px;
+}
+
+.time-section {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: aliceblue;
+	font-family: sans-serif;
+	padding: 0 30px;
+	border-right: 1px solid rgb(24, 73, 129);
+	user-select: none;
+}
+
+.time-section:last-child {
+	border: none;
+}
+
+.footer {
+	background-color: rgba(0, 0, 0, 0.747);
+	border-radius: 10px;
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto;
+	color: aliceblue;
+	height: 100px;
+	text-align: center;
+}
+
+.text__footer {
+	padding-top: 30px;
+}
+
+.link__footer {
+	background-position: right;
+	color: #2193b0;
+}
